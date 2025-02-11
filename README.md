@@ -1,2 +1,2 @@
 # Liver-Cirrhosis-Prediction
-Predicting Liver cirrhosis Disease Stage
+The goal is to develop a robust, good machine learning model that can accurately predict the stage of liver cirrhosis in patients. The model will get the pattern of a various health measurements collected from patients to make these predictions. This project aims to help healthcare professionals in assessing the advancement of the disease. This problem is a multiclass classification problem this means that the model will predict one of the three outcomes (stage 1 – early stage, stage 2 – intermediate stage, stage 3 – advanced stage).![image](https://github.com/user-attachments/assets/9e131fef-85a5-489f-b440-7ebc1c356b9a)
